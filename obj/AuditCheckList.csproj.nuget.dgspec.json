@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Microservice\\Projects\\AuditCheckList\\AuditCheckList.csproj": {}
+    "E:\\Microservice\\Deployments\\AuditCheckList\\AuditCheckList.csproj": {}
   },
   "projects": {
-    "E:\\Microservice\\Projects\\AuditCheckList\\AuditCheckList.csproj": {
+    "E:\\Microservice\\Deployments\\AuditCheckList\\AuditCheckList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Microservice\\Projects\\AuditCheckList\\AuditCheckList.csproj",
+        "projectUniqueName": "E:\\Microservice\\Deployments\\AuditCheckList\\AuditCheckList.csproj",
         "projectName": "AuditCheckList",
-        "projectPath": "E:\\Microservice\\Projects\\AuditCheckList\\AuditCheckList.csproj",
+        "projectPath": "E:\\Microservice\\Deployments\\AuditCheckList\\AuditCheckList.csproj",
         "packagesPath": "C:\\Users\\Ujwal\\.nuget\\packages\\",
-        "outputPath": "E:\\Microservice\\Projects\\AuditCheckList\\obj\\",
+        "outputPath": "E:\\Microservice\\Deployments\\AuditCheckList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ujwal\\AppData\\Roaming\\NuGet\\NuGet.Config",
